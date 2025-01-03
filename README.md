@@ -1,16 +1,23 @@
 # cots_rosyidmuktiwibowo
 
-A new Flutter project.
+Rosyid Mukti Wibowo - SE0601 - 2211104076<br>
 
-## Getting Started
+Berikut ini tampilan untuk onboarding ketika berhasil di running: <br>
 
-This project is a starting point for a Flutter application.
+![Screenshot 2025-01-03 164126](https://github.com/user-attachments/assets/fed3d05f-a224-4cb5-931d-27cb87456aea)
+![Screenshot 2025-01-03 164145](https://github.com/user-attachments/assets/b81e4f0f-0f71-479d-9932-67bca7aecb44)
+![Screenshot 2025-01-03 164139](https://github.com/user-attachments/assets/3ef6031f-4aae-451c-9f22-c88b7d485046)
+![Screenshot 2025-01-03 164126](https://github.com/user-attachments/assets/4d40b110-0768-489e-b698-d617ffcdca25)
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+Berikut ini tampilan untuk login screen<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2025-01-03 164155](https://github.com/user-attachments/assets/7d1afaa3-8d7b-4b97-a7c1-068b798eeb92)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+Berikut ini tampilan untuk home screen <br>
+
+![Screenshot 2025-01-03 164208](https://github.com/user-attachments/assets/53946ac9-bc57-4724-b234-ad2a9dcc3fa4)
+
+
+
